@@ -6,5 +6,5 @@
 ## Installation
 
 ```bash
-git clone  ~/.config/nvim/
+git clone https://github.com/tinoSibz/kickstart.nvim.git  ~/.config/nvim/
 ```
